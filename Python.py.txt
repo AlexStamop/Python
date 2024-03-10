@@ -1,0 +1,6 @@
+#Alex Stamopoulos
+#The program adds a+b together into c
+x=5
+y=2
+z=x+y
+print(y)
